@@ -1,0 +1,9 @@
+C:\Users\arshi\source\repos\EmployeeDirectory\EmployeeDirectory\obj\Debug\EmployeeDirectory.csproj.AssemblyReference.cache
+C:\Users\arshi\source\repos\EmployeeDirectory\EmployeeDirectory\obj\Debug\EmployeeDirectory.Properties.Resources.resources
+C:\Users\arshi\source\repos\EmployeeDirectory\EmployeeDirectory\obj\Debug\EmployeeDirectory.csproj.GenerateResource.cache
+C:\Users\arshi\source\repos\EmployeeDirectory\EmployeeDirectory\obj\Debug\EmployeeDirectory.csproj.CoreCompileInputs.cache
+C:\Users\arshi\source\repos\EmployeeDirectory\EmployeeDirectory\bin\Debug\EmployeeDirectory.exe.config
+C:\Users\arshi\source\repos\EmployeeDirectory\EmployeeDirectory\bin\Debug\EmployeeDirectory.exe
+C:\Users\arshi\source\repos\EmployeeDirectory\EmployeeDirectory\bin\Debug\EmployeeDirectory.pdb
+C:\Users\arshi\source\repos\EmployeeDirectory\EmployeeDirectory\obj\Debug\EmployeeDirectory.exe
+C:\Users\arshi\source\repos\EmployeeDirectory\EmployeeDirectory\obj\Debug\EmployeeDirectory.pdb
